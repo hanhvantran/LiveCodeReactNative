@@ -3,3 +3,6 @@ npm i react-native-deprecated-custom-components
 yarn add react-native-drawer
 yarn add react-native-tab-navigator
 npm install react-native-tab-navigator --save
+npm install react-native-tab-navigator --save
+
+npm i react-native-vector-icons
